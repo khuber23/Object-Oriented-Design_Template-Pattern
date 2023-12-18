@@ -1,0 +1,15 @@
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\9.2 Template\9.2 Template LastName\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\9.2 Template\9.2 Template LastName\TemplatePattern\bin\Debug\TemplatePattern.exe
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\9.2 Template\9.2 Template LastName\TemplatePattern\bin\Debug\TemplatePattern.pdb
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\9.2 Template\9.2 Template LastName\TemplatePattern\obj\Debug\TemplatePattern.csprojAssemblyReference.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\9.2 Template\9.2 Template LastName\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\9.2 Template\9.2 Template LastName\TemplatePattern\obj\Debug\TemplatePattern.exe
+C:\Users\cdpay\OneDrive\Documents\Git\10152311-object-oriented-programming-1\Assignments\Object-Oriented Design\9.2 Template\9.2 Template LastName\TemplatePattern\obj\Debug\TemplatePattern.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\bin\Debug\TemplatePattern.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\bin\Debug\TemplatePattern.pdb
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\obj\Debug\TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\obj\Debug\TemplatePattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\obj\Debug\TemplatePattern.exe
+C:\Users\180011854\OneDrive - Northcentral Technical College\Courses\Object-Oriented Design\9.2 Template Huber\TemplatePattern\obj\Debug\TemplatePattern.pdb
